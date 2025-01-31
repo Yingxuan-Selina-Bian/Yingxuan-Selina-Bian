@@ -4,10 +4,30 @@ Ex-Intern at Budweiser & Tiktok & BCG
 Enthusiastic about transforming data into actionable business insights.
 
 🧑‍💼 Professional Experience
-
+OSCR AI, Market Analyst Intern                                      
+·	Initiated in-depth market research and competitive analysis based on existing reports and data with Perplexity and Monica AI; refine product-market fit (PMF) for content marketing SaaS product, identifying key pain points including trendy information and use cases such as recruiter, marketers, and e-commerce owners.
+·	Collaborated with cross-functional teams to design growth strategies including affiliate program, influencer recommendation, SEO article and Cold Emails followed by Web Scrapping, gaining 80+ leads.
+Alexander Tutoring (Practicum), Data Analyst                                   
+·	Developed a churn prediction model with Python using Stripe payment data, enhancing accuracy by integrating additional features such as website visit frequency and user engagement patterns.
+·	Built a star tutoring evaluation model leveraging PCA for feature weighting and a random forest algorithm, incorporating key metrics such as rescheduling rates, conversion rates, retention, and CLV.
+·	Applied Retrieval-Augmented Generation (RAG) and large language models (LLMs) to analyze transcripts and videos of tutorial sessions, generating actionable insights for improving student engagement and tutor effectiveness.
+Budweiser Asia Pacific, Intern - Trade Marketing                        
+·	Built 20 dashboards using Power BI to visualize sales, conversion rates, and key metrics from 160+ summer nightclub events, achieving a 50% increase in operational efficiency. 
+·	Reviewed and analyzed 3K datasets with Advanced Excel for the implementation of the weekly promotion in BBQ restaurants, and implemented the coupon distribution system, saving 34% of cost.
+Boston Consulting Group, Business Analyst Intern (Part-time)                 
+·	Conducted data analysis on revenue with Vlookup and Pivot Table for 4 projects using Excel, including sectors such as semiconductor packaging, HPV vaccine policy, vehicle supply chain systems, and financial data from a commercial bank.
+·	Created 20+ charts, workflow diagrams, and tables using MS Excel and PowerPoint, which were used by consultants for further analysis and final deck creation.
+ZhongAn Insurance, Platform Product Manager Intern              
+·	Analyzed the "Home Page" and "My" page designs of 10 competitive products and completed 5 PRD documents to guide the revision of product page design and layout; led daily app examinations, identified 50+ issues, and coordinated with business leaders to resolve them.
+·	Conducted A/B testing on different sending times and copywriting for APP Push, SMS, and WeChat public account customer service messages, resulting in a 34% increase in link click rate and a 28% boost in page visits (PV).
 
 📊 Key Projects
-
+Recommendation System based on Steam User Comments
+·	Conducted sentiment analysis on comments data from 25K users across 3K games, categorizing them into positive or negative labels and assigning scores ranging from -1 to 1 to display users’ attitude and degree of satisfaction.
+·	Developed a Collaborative Filtering Model employing Factorization Machine and DNN, addressing the cold start problem.
+Hotel Prediction Business Analytics Project
+·	Selected appropriate variables and models in the dataset with Step AIC and PCA, predicted cancellation with logistic regression and various time series methods such as ARIMA, Naive, etc.
+·	Led the group discussion and the structuring of the storyline, designed incentive mechanisms and overbooking solution based on data analysis and prediction, aiming to reduce cancellation rates and the loss after cancellation.
 
 🎓 Education
 - University of California Davis, MS in Business Analytics                           

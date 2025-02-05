@@ -1,5 +1,5 @@
 # Hi, I'm Selina Bian! 👋  
-- MS in Business Analytics Student @ UC Davis
+- MS in Business Analytics Candidate @ UC Davis
 - Ex-Intern at Budweiser, TikTok, & BCG
 - Enthusiastic about transforming data into actionable business insights.
 

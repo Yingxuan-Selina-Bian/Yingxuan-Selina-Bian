@@ -7,10 +7,10 @@
 
 ## 🧑‍💼 Professional Experience  
 
-- **OSCR AI, Market Analyst Intern** (San Francisco, CA, Nov 2024–Present)  
+- **OSCR AI, Market Analyst Intern** (San Francisco, CA, Nov 2024–Jan 2025)  
   Conduct market research and competitive analysis using Perplexity and Monica AI to refine the product-market fit for a content marketing SaaS product, and collaborate on growth strategies that have generated 80+ leads.
 
-- **Alexander Tutoring & Andromeda (Practicum), Data Scientist** (San Francisco, CA, Aug 2024–Present)  
+- **Alexander Tutoring & Andromeda (Practicum), Data Scientist** (San Francisco, CA, Aug 2024–Jun 2025)  
   Developed a churn prediction model and a star tutoring evaluation model using Python, PCA, and random forest to enhance accuracy, while also applying RAG and LLMs to extract actionable insights from tutorial session data.
 
 - **Budweiser Asia Pacific, Trade Marketing Summer Intern** (Shanghai, China, Jul 2023–Aug 2023)  

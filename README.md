@@ -56,7 +56,7 @@
 ---
 
 ## 🏉 Leadership & Organizations  
-- **Podcaster** (~5.4K Subscription, 50K+ Listens)  
+- **Podcaster** (~5.6K Subscription, 50K+ Listens)  
 - **Vice President of Cooking Pioneer Club**  
 - **Student Assistant for Center of Innovation and Entrepreneurship**  
 - **Member of Peer Psychological Counseling Team**  
@@ -66,4 +66,5 @@
 ## 💼 Skills  
 - **Technologies:** MS Excel, SQL, R, Stata, Python, Power BI, Tableau, Adobe Audition, Databricks, Google Colab  
 - **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing  
+
 

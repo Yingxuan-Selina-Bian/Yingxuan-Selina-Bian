@@ -9,12 +9,12 @@
 ## 🧑‍💼 Professional Experience  
 
 - **OSCR AI, Market Analyst Intern** (San Francisco, CA, Nov 2024–Feb 2025)  
-  Conduct market research and competitive analysis using Perplexity and Monica AI to refine the product-market fit for a content marketing SaaS product, and collaborate on growth strategies that have generated 80+ leads.
+  Conduct market research and competitive analysis to refine the product-market fit for a content marketing SaaS product, and collaborate on growth strategies that have generated 80+ leads.
 
 - **Alexander Tutoring & Andromeda, Data Scientist** (San Francisco, CA, Aug 2024–Jun 2025)  
   Developed a churn prediction model and a star tutoring evaluation model using Python, PCA, and random forest to enhance accuracy, while also applying RAG and LLMs to extract actionable insights from tutorial session data.
 
-- **Budweiser Asia Pacific, Trade Marketing Summer Intern** (Shanghai, China, Jul 2023–Aug 2023)  
+- **Budweiser Asia Pacific, Trade Marketing Summer Intern** (Shanghai, China, Jul 2023–Sep 2023)  
   Led the creation of an information-sharing platform and built 20 Power BI dashboards that reduced analysis time by nearly 50%, and optimized a coupon distribution system via advanced Excel analysis to save 34% in costs.
 
 - **Boston Consulting Group, Business Analyst Intern** (Remote, Aug 2022–May 2023)  
@@ -48,7 +48,7 @@
 
 ## 🎓 Education  
 - **University of California Davis**, MS in Business Analytics  
-  *Aug 2024 - Present*  
+  *Aug 2024 - July 2025*  
 - **The Chinese University of Hong Kong**, BBA in Applied Economics  
   *Sep 2020 - May 2024*  
 - **University of Notre Dame**, Exchange Student  
@@ -66,7 +66,8 @@
 
 ## 💼 Skills  
 - **Technologies:** MS Excel, SQL, R, Stata, Python, Power BI, Tableau, Adobe Audition, Databricks, Google Colab  
-- **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing  
+- **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing, Data Pipeling Management, Big Data Analytics
+
 
 
 

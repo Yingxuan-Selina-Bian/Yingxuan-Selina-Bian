@@ -1,6 +1,6 @@
 # Hi, This is Selina Bian! 👋  
 - Enthusiastic about leveraging data and LLM for actionable business insights and solutions
-- Ex-Intern at Budweiser, TikTok, & BCG
+- Ex-Intern at Budweiser & TikTok & BCG
 - MS in Business Analytics @ UC Davis
 - Contact me via yingxuanbian1122@gmail.com 
 
@@ -67,6 +67,7 @@
 ## 💼 Skills  
 - **Technologies:** MS Excel, SQL, R, Stata, Python, Power BI, Tableau, Adobe Audition, Databricks, Google Colab  
 - **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing, Data Pipeling Management, Big Data Analytics
+
 
 
 
